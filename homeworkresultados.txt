@@ -1,0 +1,2 @@
+O resultado do comando foi 19.
+
